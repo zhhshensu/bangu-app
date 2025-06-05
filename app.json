@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "rn-app",
-    "slug": "rn-app",
+    "name": "bangu-app",
+    "slug": "bangu-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "rnapp",
+    "scheme": "banguapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
