@@ -67,24 +67,9 @@ Bangu App 是一个基于 React Native 和 Expo 开发的移动应用程序，�
 
 ## APP 截图
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div>
-        <h5>Home Screen</h5>
-        <img src="docs/shots/home.jpg" alt="Home Screen" width="200"/>
-    </div>
-    <div>
-        <h5>Record Screen</h5>
-        <img src="docs/shots/record.jpg" alt="Record Screen" width="200"/>
-    </div>
-    <div>
-        <h5>Clone Screen</h5>
-        <img src="docs/shots/clone.jpg" alt="Clone Screen" width="200"/>
-    </div>
-    <div>
-        <h5>Library Screen</h5>
-        <img src="docs/shots/library.jpg" alt="Library Screen" width="200"/>
-    </div>
-</div>
+| ![](docs/shots/home.jpg) | ![](docs/shots/record.jpg) | ![](docs/shots/clone.jpg) | ![](docs/shots/library.jpg) |  
+|:------------------------:|:--------------------------:|:-------------------------:|:---------------------------:|  
+|    Home Screen           |      Record Screen         |      Clone Screen         |     Library Screen          |  
 
 ## 贡献
 
